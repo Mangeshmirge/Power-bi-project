@@ -3,7 +3,7 @@ Turning data into delicious insights with the power of visuals.Interactive Power
 -<a href="https://github.com/Mangeshmirge/Power-bi-project/blob/main/power%20bi%20Zomato%20restaurants%20group%205.pbix">dashboard view in detail</a>
 -------------------------------------------------------------------------------------------------------------------------------
 DASHBOARD INTERACTION
-Key Highlights from the Dashboard:-<a href=>dashboard view in detail</a>
+Key Highlights from the Dashboard:-<a href=https://github.com/Mangeshmirge/Power-bi-project/blob/main/zomato%20power%20bi.jpg>dashboard interaction</a>
 
 9,551 restaurants across 15 countries and 141 cities analyzed.
 Covers 250 cuisines, with North Indian (3960) and Chinese (2735) leading globally.
