@@ -12,6 +12,11 @@ India dominates with 871K+ votes, followed by the USA and UK.
 67.91% of restaurants offer online delivery, while 32.09% accept table bookings.
 Chain comparison: McDonald’s tops with the highest average rating (3.36), while Cafe Coffee Day has the lowest (2.61).
 This project blends analytical depth with Power BI’s aesthetic clarity, transforming raw restaurant data into actionable insights for the food industry.
+
+Dashboard
+![zomato power bi](https://github.com/user-attachments/assets/bc30bdc3-25b0-425a-a571-5f7c80c1d0d6)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 📌 Process Overview
 
